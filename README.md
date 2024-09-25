@@ -19,3 +19,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 * <a href="https://www.python.org">Python</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 * ##### Python Libraries : <a href="https://pandas.pydata.org">Pandas</a><a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> | <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+
+# <h2 align="left">My Certifications 📜:
+* [SQL](https://www.hackerrank.com/certificates/iframe/7d08711a7041) - by Hacker Rank
+* [Python for Data Science, AI & Development](https://coursera.org/share/f38b814442fde7428fc2a305e9220269) - by IBM
+* [Mastering Data Analysis with Pandas](https://coursera.org/share/7f7863dc8fb5864ac4373e3f1020a148) - by Coursera
+* [Foundations of Project Management](https://coursera.org/share/4f1040ce1be65b3cbf569d0659f7c320) - by Google
+
+## You can reach me  👇 
+<a href="https://www.linkedin.com/in/fadhilfakhruradi" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhilfakhruradi/" alt="fadhilfakhruradi" height="20" width="100" /></a>
