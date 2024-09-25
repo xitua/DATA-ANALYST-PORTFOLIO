@@ -8,4 +8,4 @@ My passion for data analysis grew as I recognized the power of data to uncover m
  <p align="justify">               
 In my free time, I enjoy exploring new data analysis techniques and expanding my knowledge of the latest tools. Whether working independently or as part of a team, I am motivated by the challenge of solving complex problems and the excitement of discovering actionable insights through data.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
