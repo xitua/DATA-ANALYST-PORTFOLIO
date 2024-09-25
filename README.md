@@ -27,4 +27,4 @@ This is a repository to showcase skills, share projects and track my progress in
 * [Foundations of Project Management](https://coursera.org/share/4f1040ce1be65b3cbf569d0659f7c320) - by Google
 
 ## You can reach me  👇 
-<a href="https://www.linkedin.com/in/fadhilfakhruradi" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhilfakhruradi/" alt="fadhilfakhruradi" height="20" width="100" /></a>
+<a href="linkedin.com/in/fadhil-fakhruradi-2935b1104" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/fadhil-fakhruradi-2935b1104/" alt="fadhilfakhruradi" height="20" width="100" /></a>
