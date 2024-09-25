@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Key Components & Tools: 
 *  Advance Excel <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
 * SQL | <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="20"/> </a>
-* <a href="https://public.tableau.com/app/profile/mrankitgupta">Tableau</a><a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/> </a>  |
+* <a href="https://public.tableau.com/app/profile/fadhil.fakhruradi8798/vizzes">Tableau</a><a href="https://public.tableau.com/app/profile/fadhil.fakhruradi8798/vizzes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="20" height="20"/> </a>  |
 <a href="https://powerbi.microsoft.com/en-us/">Power BI</a><a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/power-bi.svg" alt="powerbi" width="20" height="20"/> </a> |
 <a href="https://lookerstudio.google.com/">Looker Studio</a><a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
 
