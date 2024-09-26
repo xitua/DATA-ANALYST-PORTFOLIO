@@ -30,7 +30,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors that Influence the Increase in (E-IPO) Shares
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
+**Code:** [`https://colab.research.google.com/drive/1UP0i0JK_QuF3qP2g9YkgkVxiB_nEdn_p?usp=sharing`]
 
 **Goal:** to determine what factors contributed most to the success of the (E-IPO) Stock Increase.
 
