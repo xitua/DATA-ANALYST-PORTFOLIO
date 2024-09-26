@@ -29,12 +29,16 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Analyzing the Factors that Influence the Increase in (E-IPO) Shares
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** to determine what factors contributed most to the success of the (E-IPO) Stock Increase.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:**  
+<p align="justify">
+ The Electronic Indonesia Public Offering (E-IPO) is an online platform offered by the Indonesia Stock Exchange (BEI) to facilitate investors in accessing and obtaining information about Initial Public Offerings (IPOs). It enables investors to place orders for IPO shares electronically, streamlining the process of purchasing shares during Public Offerings. The main objective of the e-IPO system is to enhance the convenience and efficiency of buying IPO shares for investors. 
+
+**Dataset:** [Kaggle](https://www.kaggle.com/datasets/fahmirk/e-ipo-realtime-data) 
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
