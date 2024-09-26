@@ -44,7 +44,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** 
 
 ## You can reach me  👇 
 <a href="linkedin.com/in/fadhil-fakhruradi-2935b1104" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/fadhil-fakhruradi-2935b1104/" alt="fadhilfakhruradi" height="20" width="100" /></a>
