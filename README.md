@@ -2,7 +2,7 @@
 
 # Introduce
 <p align="justify">
-Hi, I'm Fadhil! I have a background in Mechanical Engineering with a specialization in Mechatronics. Over the course of my studies and professional experience, I developed a strong foundation in technical problem-solving, process optimization, and data-driven decision-making, particularly in raw material procurement planning.
+Hi, I'm Fadhil Fakhruradi! I have a background in Mechanical Engineering with a specialization in Mechatronics. Over the course of my studies and professional experience, I developed a strong foundation in technical problem-solving, process optimization, and data-driven decision-making, particularly in raw material procurement planning.
 <p align="justify">                
 My passion for data analysis grew as I recognized the power of data to uncover meaningful insights and drive efficiency in engineering processes. This inspired me to pursue a career as a data specialist. I’ve honed my analytical skills through coursework and hands-on experience, gaining proficiency in statistical analysis, data management, and a variety of tools like Excel, SQL, and Python.
  <p align="justify">               
@@ -45,8 +45,23 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 **Results:** 
+### Visualization Planning Procurement Raw Material
+**Code:** (LookerStudio) 
+
+**Goal:** Planning raw material procurement by forecasting with production, sales consumption variables and raw material price trends.
+
+**Description:**  
+<p align="justify">
+ The planning of raw material procurement using a forecasting method that integrates production variables, sales consumption, and raw material price trends aims to ensure optimal and efficient material availability. By projecting needs based on historical production and sales consumption data, the procurement team can predict the amount of raw materials required to support production activities without causing shortages or excess stock. Raw material price trends are also analyzed to identify purchasing opportunities when prices are competitive, helping to reduce procurement costs. This approach enables better inventory management and minimizes the risks of price fluctuations and supply disruptions.
+
+ **Dataset:** Google Spreadsheet  
+
+**Skills:** data cleaning, data visualization.
+
+**Technology:** Looker Studio,Google Spreadsheet
+
+**Results:** The expected outcome is a reduction in lead time and more efficient inventory management, as well as the ability to monitor raw material trends effectively.
 
 ## You can reach me  👇 
 <a href="linkedin.com/in/fadhil-fakhruradi-2935b1104" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/fadhil-fakhruradi-2935b1104/" alt="fadhilfakhruradi" height="20" width="100" /></a>
-
 
