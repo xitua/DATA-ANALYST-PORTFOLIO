@@ -46,7 +46,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** 
 ### Visualization Planning Procurement Raw Material
-**Code:** (LookerStudio) 
+**Code:** [Screenshoot Looker Studio](https://drive.google.com/file/d/1GXo6P7PsrQqroZ6cgh6C43yovTlYr-bo/view?usp=sharing). 
 
 **Goal:** Planning raw material procurement by forecasting with production, sales consumption variables and raw material price trends.
 
