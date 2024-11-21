@@ -78,8 +78,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Google Spreadsheet
 
 **Results:**
+
 Simplicity: Uses familiar tools like spreadsheets, easy to use without extensive training.
+
 Effectiveness: Provides quick insights with minimal implementation cost.
+
 Flexibility: Easily customizable to meet procurement team needs.
 ## You can reach me  👇 
 <a href="linkedin.com/in/fadhil-fakhruradi-2935b1104" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/fadhil-fakhruradi-2935b1104/" alt="fadhilfakhruradi" height="20" width="100" /></a>
