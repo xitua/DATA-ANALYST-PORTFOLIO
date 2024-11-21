@@ -62,6 +62,25 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The expected outcome is a reduction in lead time and more efficient inventory management, as well as the ability to monitor raw material trends effectively.
 
+### Dashboard Database Document Procurement
+**Code:** 
+
+**Goal:** Saving time in document retrieval and data verification, ensuring consistency through automated validation, and simplifying procurement report generation for internal needs and external audits.
+
+**Description:**  
+<p align="justify">
+ The spreadsheet-based Procurement Dashboard is designed to simplify data management and visualization for procurement processes. This system provides quick access to critical information such as document status, data verification, and procurement reports. By leveraging spreadsheet features like dynamic tables, data validation, and interactive charts, the dashboard enhances process efficiency while ensuring accuracy and transparency.
+
+ **Dataset:** Google Spreadsheet  
+
+**Skills:** data cleaning, data visualization, dashboard
+
+**Technology:** Google Spreadsheet
+
+**Results:**
+Simplicity: Uses familiar tools like spreadsheets, easy to use without extensive training.
+Effectiveness: Provides quick insights with minimal implementation cost.
+Flexibility: Easily customizable to meet procurement team needs.
 ## You can reach me  👇 
 <a href="linkedin.com/in/fadhil-fakhruradi-2935b1104" target="blank"><img align="center" src="https://img.shields.io/badge/-Fadhil Fakhruradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/fadhil-fakhruradi-2935b1104/" alt="fadhilfakhruradi" height="20" width="100" /></a>
 
